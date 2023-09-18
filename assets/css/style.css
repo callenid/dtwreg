@@ -1,0 +1,13 @@
+/*
+h5,
+h5,
+.coba {
+	background-color: bisque;
+	height: 80px;
+}
+*/
+@font-face {
+	font-family: "astoria";
+	src: url("assets/font/waldorf_astoria/Waldorf Astoria.ttf") format("ttf"),
+		url("assets/font/waldorf_astoria/Waldorf Astoria.ttf") format("ttf");
+}
